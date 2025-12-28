@@ -13,7 +13,7 @@ $exiftool  = "C:\Tools\exiftool.exe" が必要です。https://exiftool.org/
 
 動画など、コピー時間かかる時、保存完了まで変換待ちます。
 
-自動起動は、BATファイル作成が便利です。
+自動起動は、BATファイル作成が便利です。 ⇒ shell:startup
 
 連番は、拡張子毎です。
 
