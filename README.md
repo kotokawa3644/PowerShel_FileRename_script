@@ -3,7 +3,7 @@
 対象拡張子は、現在、$extPattern = '^(jpg|jpeg|png|mov|mp4|webm|jxr|arw|tif|dng|m4v)$'
 対象ホルダーは、$watchPath = "Z:\Screenshot" を書き換え下さい。
 $exiftool  = "C:\Tools\exiftool.exe" が必要です。https://exiftool.org/
-変換済みは、対象となりません。変換後、同名ファイルも変換されます。
+変換済みは、対象となりません。同名ファイル（例:ドキュメント.png）保存、何度も可能です。
 動画など、コピー時間かかる時、保存完了まで変換待ちます。
 自動起動は、BATファイル作成が便利です。
 コピペ保存先名称をスクリプト内に書き込みます。
