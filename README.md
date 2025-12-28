@@ -7,7 +7,7 @@
 
 $exiftool  = "C:\Tools\exiftool.exe" が必要です。https://exiftool.org/
 
-変換済み（yyyMMdd_***_HHmm.***）は、対象となりません。
+変換済み（yyyMMdd_数字3桁_HHmm.拡張子）は、対象となりません。
 
 変換済み同名ファイル（例:ドキュメント.png）保存、何度も可能です。
 
