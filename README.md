@@ -8,4 +8,5 @@ $exiftool  = "C:\Tools\exiftool.exe" が必要です。https://exiftool.org/
 自動起動は、BATファイル作成が便利です。
 コピペ保存先名称をスクリプト内に書き込みます。
 連番は、拡張子毎です。
+
 日時は、作成日時です。
