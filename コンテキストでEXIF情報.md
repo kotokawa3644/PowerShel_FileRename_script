@@ -1,4 +1,4 @@
-このコンテキで、EXIF情報を表示させる工夫です。超便利です。  
+右クリックのコンテキで、EXIF情報を表示させる工夫です。超便利です。  
 
     
 ![Image](https://github.com/user-attachments/assets/3e71d00f-ea88-4451-a94a-da5a1fbc921f)
