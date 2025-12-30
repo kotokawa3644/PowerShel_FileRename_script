@@ -1,3 +1,6 @@
+このコンテキで、EXIF情報を表示させる工夫です。超便利です。  
+
+    
 ![Image](https://github.com/user-attachments/assets/3e71d00f-ea88-4451-a94a-da5a1fbc921f)
 
 ①次の内容を、「add_exif_context.reg」として保存する
