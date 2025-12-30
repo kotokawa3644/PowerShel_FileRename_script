@@ -18,3 +18,5 @@ $exiftool  = "C:\Tools\exiftool.exe" が必要です。https://exiftool.org/
 連番は、拡張子毎です。
 
 日時は、作成日時です。
+
+PSスクリプト起動は、BATから起動しないと、エラーなります。
