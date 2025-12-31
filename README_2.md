@@ -27,3 +27,7 @@ or
 
 ここ移動すると、事前準備が楽なります。  
 <img width="993" height="520" alt="20251231_002_0941" src="https://github.com/user-attachments/assets/5fd772a6-dca9-47ab-acaa-2430027f7c40" />
+
+Everything AND検索が素晴らしい･･･です。  
+<img width="1879" height="716" alt="20251231_003_0949" src="https://github.com/user-attachments/assets/9c769f14-b6dd-4c55-a1e2-218cf181ce15" />
+
