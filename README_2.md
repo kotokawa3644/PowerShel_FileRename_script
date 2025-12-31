@@ -25,3 +25,5 @@ or
 
 変換済みを再変換出来ません。その場合、該当ファイル全選択、先頭ファイルをRENEME ⇒ 例：aaaaa で全部をRENAMEして、再度、変換します。
 
+ここ移動すると、事前準備が楽なります。  
+<img width="993" height="520" alt="20251231_002_0941" src="https://github.com/user-attachments/assets/5fd772a6-dca9-47ab-acaa-2430027f7c40" />
