@@ -32,5 +32,5 @@ Everything AND検索が素晴らしい･･･です。
 <img width="1879" height="716" alt="20251231_003_0949" src="https://github.com/user-attachments/assets/9c769f14-b6dd-4c55-a1e2-218cf181ce15" />
 
 10万超え画像、数百の保管ホルダをシコシコ変換してます。こんな手順です。  
-キーワード規則を自分なりに決めてせにゃ、後の検索が･･･  
+Suffix キーワード規則を自分なりに決めてせにゃ、後の検索が･･･  
 <img width="1570" height="750" alt="20251231_007_1009" src="https://github.com/user-attachments/assets/9cd19c29-b5e5-4f7c-88e1-e530db80a22a" />
